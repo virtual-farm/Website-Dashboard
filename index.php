@@ -14,7 +14,7 @@
     </head>
     <body>
         <!--navigation-->
-        <nav class="navbar navbar-expand-md navbar-dark " style="background: rgb(81,72,67)!important;">
+        <nav class="navbar navbar-expand-md navbar-dark " style="background: rgb(80,72,67)!important;">
             <a class="navbar-brand mx-auto" href="#">
                 VirtualFarm
             </a>
