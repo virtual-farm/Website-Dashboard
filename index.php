@@ -47,7 +47,8 @@
                     <div class="col-lg-6 mx-auto my-auto">
                         <h1>The Future of Farming.</h1>
                         <p class="lead mt-4 mb-5">
-                            We are an <b>revolutionary</b> agri-tech company, integrating artificial intelligence, and internet of things in a unique way into farming. 
+                            We are an <b>revolutionary</b> agri-tech company, integrating artificial intelligence, and internet of things in a unique way into farming.<br/> 
+                            Call us the AirBnB for farming.
                         </p> 
                     </div>
                     <div class="col-lg-6">
@@ -64,7 +65,7 @@
                 <hr class="my-6"/>
                 <div class="row">
                     <div class="col-md-6 mx-auto text-center">
-                        <h4 class="dot-circle font-weight-normal">Leveraging the power of Artificial Intelligence and Internet of Things, we are building a tech enabled farm place where Users from any part of the world can control farm in realtime.
+                        <h4 class="dot-circle font-weight-normal">Leveraging the power of Artificial Intelligence and Internet of Things to enable people to share a farm in most cities of the world.
                         </h4>
                     </div>
                 </div>
@@ -96,7 +97,7 @@
                     <div class="col-md-7 my-md-auto">
                         <h3>Our Solution</h3>
                             <p class="text-muted lead">
-                            Virtual farm is using Artificial intelligence and internet of things in a unique way to help urban dwellers to buy seeds, sow, monitor and harvest without the hassles of everyday farming.We are using technology to democratize farming, you don't need a farm to farm anymore. Currently our solution is in one city, we have our mission to expand our virtual farm into every city in every nation, if there's no virtual farm in your location, you can still register so we can easily get to you when we are close to you
+                            Virtual farm is using Artificial intelligence and internet of things in a unique way to help urban dwellers to buy seeds, sow, monitor and harvest without the hassles of everyday farming.We are using technology to democratize farming, you don't need a farm to farm anymore. Currently our solution is in one city, we have our mission to expand our virtual farm into every city in every nation, if there's no virtual farm in your location, you can still register so we can easily get to you when we are close to you.
                             </p>
                     </div>
                     <div class="col-md-6 mx-auto border-top border-bottom mt-5 mt-md-0 py-4">
@@ -120,7 +121,7 @@
                 <div class="row">
                     <div class="col-md-7 mx-auto">
                         <h2 class="dot-circle">What we offer</h2>
-                        <p class="text-muted lead">Out team works round the clock to provide you with the best farming experience.</p>
+                        <p class="text-muted lead">Our team works round the clock to provide you with the best farming experience.</p>
                     </div>
                 </div>
                 <div class="row mt-5">
